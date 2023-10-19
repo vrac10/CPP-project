@@ -1,0 +1,41 @@
+name,types of rooms,Price,location,No. of rooms
+Taj hotel,Normal,4000,Bangalore,10
+Taj hotel,Suite,7000,Bangalore,8
+Taj hotel,Deluxe,1000,Bangalore,7
+Taj hotel,Deluxe-suite,15000,Bangalore,5
+Taj hotel,Luxury,20000,Bangalore,3
+Novotel,Normal,3999,Bangalore,10
+Novotel,Suite,5999,Bangalore,8
+Novotel,Deluxe,8999,Bangalore,7
+Novotel,Deluxe-suite,12999,Bangalore,5
+Novotel,Luxury,19999,Bangalore,3
+Ibis,Normal,4000,Chennai,10
+Ibis,Suite,6000,Chennai,8
+Ibis,Deluxe,9000,Chennai,7
+Ibis,Deluxe-suite,13000,Chennai,5
+Ibis,Luxury,21000,Chennai,3
+ITC,Normal,3000,Chennai,10
+ITC,Suite,5000,Chennai,8
+ITC,Deluxe,10000,Chennai,7
+ITC,Deluxe-suite,11000,Chennai,5
+ITC,Luxury,19921,Chennai,3
+Ritz-carlton,Normal,6999,Mumbai,10
+Ritz-carlton,Suite,8999,Mumbai,8
+Ritz-carlton,Deluxe,12009,Mumbai,7
+Ritz-carlton,Deluxe-suite,15000,Mumbai,5
+Ritz-carlton,Luxury,27000,Mumbai,3
+Radisson,Normal,4000,Mumbai,10
+Radisson,Suite,6000,Mumbai,8
+Radisson,Deluxe,10000,Mumbai,7
+Radisson,Deluxe-suite,15000,Mumbai,5
+Radisson,Luxury,21000,Mumbai,3
+HYATT,Normal,4000,Kolkata,10
+HYATT,Suite,6000,Kolkata,8
+HYATT,Deluxe,9000,Kolkata,7
+HYATT,Deluxe-suite,13000,Kolkata,5
+HYATT,Luxury,25000,Kolkata,3
+JW-Mariott,Normal,4000,Kolkata,10
+JW-Mariott,Suite,6000,Kolkata,8
+JW-Mariott,Deluxe,9000,Kolkata,7
+JW-Mariott,Deluxe-suite,13000,Kolkata,5
+JW-Mariott,Luxury,21000,Kolkata,3
